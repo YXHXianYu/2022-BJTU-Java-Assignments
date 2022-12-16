@@ -1,0 +1,26 @@
+C001 Colombia, Whole, 1 lb
+C002 Colombia, Ground, 1 lb
+C003 Italian Roast, Whole, 1 lb
+C004 Italian Roast, Ground, 1 lb
+C005 French Roast, Whole, 1 lb
+C006 French Roast, Ground, 1 lb
+C007 Guatemala, Whole, 1 lb
+C008 Guatemala, Ground, 1 lb
+C009 Sumatra, Whole, 1 lb
+C010 Sumatra, Ground, 1 lb
+C011 Decaf Blend, Whole, 1 lb
+C012 Decaf Blend, Ground, 1 lb
+B001 Home Coffee Brewer
+B002 Coffee Brewer, 2 Warmers
+B003 Coffee Brewer, 3 Warmers
+B004 Commercial Coffee, 20 Cups
+B005 Commercial Coffee, 40 Cups
+A001 Almond Flavored Syrup
+A002 Irish Creme Flavored Syrup
+A003 Mint Flavored syrup
+A004 Caramel Flavored Syrup
+A005 Gourmet Coffee Cookies
+A006 Gourmet Coffee Travel Thermo
+A007 Gourmet Coffee Ceramic Mug
+A008 Gourmet Coffee 12 Cup Filters
+A009 Gourmet Coffee 36 Cup Filters

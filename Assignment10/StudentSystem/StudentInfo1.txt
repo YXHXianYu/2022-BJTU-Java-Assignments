@@ -1,0 +1,4 @@
+Jose	60
+Rose	70
+Mike	80
+Tom	90
